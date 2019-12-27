@@ -1,2 +1,2 @@
 # ashrae
-The ashrae competition at kaggle.
+The ashrae competition on kaggle.
